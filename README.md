@@ -1,9 +1,9 @@
-# Please follow the steps to run this project
+#Please follow the steps to run this project
 
-### Clone the project
+###Clone the project
 `git clone git@github.com:yahrdy/employee-assignment-backend.git`
 
-### Install dependencies
+###Install dependencies
 `composer install`
 
 - Copy/rename .env.example file to .env
@@ -17,3 +17,6 @@
 
 ###For executing test
 `php artisan test`
+
+###To start local server
+`php artisan serve`
